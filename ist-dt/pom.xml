@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>cn.ist.dt</groupId>
+        <groupId>org.apache.maven.archetype</groupId>
         <artifactId>simulation-framework</artifactId>
         <version>1.0</version>
     </parent>
 
-    <artifactId>dt</artifactId>
+    <artifactId>ist-dt</artifactId>
 
     <properties>
         <java.version>11</java.version>

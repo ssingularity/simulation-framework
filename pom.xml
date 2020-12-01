@@ -4,16 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.ist.dt</groupId>
+    <groupId>org.apache.maven.archetype</groupId>
     <artifactId>simulation-framework</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>dt</module>
-        <module>pt</module>
-        <module>agent</module>
-        <module>PT1</module>
+        <module>ist-agent</module>
+        <module>ist-dt</module>
+        <module>ist-pt</module>
     </modules>
 
     <properties>
